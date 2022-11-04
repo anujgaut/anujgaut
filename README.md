@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anuj Gautam.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C++ and python.
+- 🌱 I’m currently learning MATLAB and python.
 - 💞️ I’m looking to collaborate on Deep learning and Machine learning.
